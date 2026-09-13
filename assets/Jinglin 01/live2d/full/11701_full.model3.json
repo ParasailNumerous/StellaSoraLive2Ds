@@ -1,0 +1,156 @@
+{
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "11701_F.moc3",
+        "Textures": [
+            "textures/texture_00.png",
+            "textures/texture_01.png"
+        ],
+        "Motions": {
+            "Full": [
+                {
+                    "File": "motions/idle_c1_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/special_b.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_c2_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_c1_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_c2_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_e_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle.motion3.json",
+                    "FadeInTime": 2.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/special_a.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_b_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_b_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_d_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_e_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_d_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_c2_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_d_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_e_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_c1_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_b_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_e_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_c1_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_c2_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_a_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_b_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_a_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/vo_cgstory_117_a_jp.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/full_1.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_d_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_a_cn.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                }
+            ]
+        }
+    },
+    "Groups": [],
+    "HitAreas": []
+}

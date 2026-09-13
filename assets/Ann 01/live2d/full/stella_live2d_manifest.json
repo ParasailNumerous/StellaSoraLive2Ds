@@ -1,0 +1,227 @@
+{
+    "skin_id": 12301,
+    "variant": "full",
+    "skipped": false,
+    "skip_reason": null,
+    "source_bundle": "D:\\YostarGames\\StellaSora_EN\\StellaSora_Data\\StreamingAssets\\InstallResource\\char_2d_12301.unity3d",
+    "prefab": "assets/assetbundles/actor2d_l2d/noncen/character/12301/12301_lf.prefab",
+    "moc": {
+        "name": "12301_F",
+        "file": "12301_F.moc3"
+    },
+    "textures": [
+        "textures/texture_00.png",
+        "textures/texture_01.png"
+    ],
+    "motions": [
+        {
+            "name": "special_a",
+            "file": "motions/special_a.motion3.json",
+            "duration": 3.1670000553131104,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_c_cn",
+            "file": "motions/vo_cgstory_123_c_cn.motion3.json",
+            "duration": 5.349999904632568,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_c_jp",
+            "file": "motions/vo_cgstory_123_c_jp.motion3.json",
+            "duration": 4.333000183105469,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_f_jp",
+            "file": "motions/vo_cgstory_123_f_jp.motion3.json",
+            "duration": 29.16699981689453,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 51
+        },
+        {
+            "name": "idle_a_cn",
+            "file": "motions/idle_a_cn.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "idle_d_cn",
+            "file": "motions/idle_d_cn.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_e_cn",
+            "file": "motions/vo_cgstory_123_e_cn.motion3.json",
+            "duration": 23.5,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "idle_c_jp",
+            "file": "motions/idle_c_jp.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_d_jp",
+            "file": "motions/vo_cgstory_123_d_jp.motion3.json",
+            "duration": 17.16699981689453,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 51
+        },
+        {
+            "name": "idle",
+            "file": "motions/idle.motion3.json",
+            "duration": 6.0,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 51
+        },
+        {
+            "name": "full_idle",
+            "file": "motions/full_idle.motion3.json",
+            "duration": 0.017000000923871994,
+            "fade_in": 0.0,
+            "fade_out": 0.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "full_2",
+            "file": "motions/full_2.motion3.json",
+            "duration": 3.4170000553131104,
+            "fade_in": 0.0,
+            "fade_out": 0.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "idle_d_jp",
+            "file": "motions/idle_d_jp.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 45
+        },
+        {
+            "name": "idle_e_jp",
+            "file": "motions/idle_e_jp.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "idle_f_jp",
+            "file": "motions/idle_f_jp.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 51
+        },
+        {
+            "name": "vo_cgstory_123_a_jp",
+            "file": "motions/vo_cgstory_123_a_jp.motion3.json",
+            "duration": 6.333000183105469,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "idle_c_cn",
+            "file": "motions/idle_c_cn.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 45
+        },
+        {
+            "name": "special_b",
+            "file": "motions/special_b.motion3.json",
+            "duration": 3.4170000553131104,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 45
+        },
+        {
+            "name": "idle_f_cn",
+            "file": "motions/idle_f_cn.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_f_cn",
+            "file": "motions/vo_cgstory_123_f_cn.motion3.json",
+            "duration": 29.966999053955078,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_d_cn",
+            "file": "motions/vo_cgstory_123_d_cn.motion3.json",
+            "duration": 20.41699981689453,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "vo_cgstory_123_e_jp",
+            "file": "motions/vo_cgstory_123_e_jp.motion3.json",
+            "duration": 25.066999435424805,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "full_1",
+            "file": "motions/full_1.motion3.json",
+            "duration": 4.982999801635742,
+            "fade_in": 0.0,
+            "fade_out": 0.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "idle_e_cn",
+            "file": "motions/idle_e_cn.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        },
+        {
+            "name": "idle_a_jp",
+            "file": "motions/idle_a_jp.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 50
+        },
+        {
+            "name": "vo_cgstory_123_a_cn",
+            "file": "motions/vo_cgstory_123_a_cn.motion3.json",
+            "duration": 7.583000183105469,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 46
+        }
+    ],
+    "warnings": []
+}

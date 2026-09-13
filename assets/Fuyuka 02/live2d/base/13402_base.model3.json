@@ -1,0 +1,21 @@
+{
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "13402_L.moc3",
+        "Textures": [
+            "textures/texture_00.png",
+            "textures/texture_01.png"
+        ],
+        "Motions": {
+            "Base": [
+                {
+                    "File": "motions/idle.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                }
+            ]
+        }
+    },
+    "Groups": [],
+    "HitAreas": []
+}

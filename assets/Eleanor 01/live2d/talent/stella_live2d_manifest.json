@@ -1,0 +1,51 @@
+{
+    "skin_id": 13701,
+    "variant": "talent",
+    "skipped": false,
+    "skip_reason": null,
+    "source_bundle": "D:\\YostarGames\\StellaSora_EN\\Persistent_Store\\AssetBundles\\char_2d_13701.unity3d",
+    "prefab": "assets/assetbundles/actor2d_l2d/noncen/character/13701/13701_lt.prefab",
+    "moc": {
+        "name": "13701_T",
+        "file": "13701_T.moc3"
+    },
+    "textures": [
+        "textures/texture_00.png",
+        "textures/texture_01.png"
+    ],
+    "motions": [
+        {
+            "name": "idle_1",
+            "file": "motions/idle_1.motion3.json",
+            "duration": 6.0,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 77
+        },
+        {
+            "name": "idle_0a",
+            "file": "motions/idle_0a.motion3.json",
+            "duration": 6.0,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 75
+        },
+        {
+            "name": "idle_0",
+            "file": "motions/idle_0.motion3.json",
+            "duration": 1.0,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 0
+        },
+        {
+            "name": "idle_2",
+            "file": "motions/idle_2.motion3.json",
+            "duration": 6.0,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 77
+        }
+    ],
+    "warnings": []
+}

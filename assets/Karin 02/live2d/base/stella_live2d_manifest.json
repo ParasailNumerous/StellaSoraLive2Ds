@@ -1,0 +1,43 @@
+{
+    "skin_id": 15702,
+    "variant": "base",
+    "skipped": false,
+    "skip_reason": null,
+    "source_bundle": "D:\\YostarGames\\StellaSora_EN\\Persistent_Store\\AssetBundles\\char_2d_15702.unity3d",
+    "prefab": "assets/assetbundles/actor2d_l2d/noncen/character/15702/live2d/moc/15702_l.prefab",
+    "moc": {
+        "name": "15702_L",
+        "file": "15702_L.moc3"
+    },
+    "textures": [
+        "textures/texture_00.png",
+        "textures/texture_01.png"
+    ],
+    "motions": [
+        {
+            "name": "idle",
+            "file": "motions/idle.motion3.json",
+            "duration": 5.9670000076293945,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 59
+        },
+        {
+            "name": "presents_a",
+            "file": "motions/presents_a.motion3.json",
+            "duration": 2.9830000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 59
+        },
+        {
+            "name": "ultra",
+            "file": "motions/ultra.motion3.json",
+            "duration": 1.7330000400543213,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 59
+        }
+    ],
+    "warnings": []
+}

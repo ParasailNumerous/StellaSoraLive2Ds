@@ -1,0 +1,99 @@
+{
+    "skin_id": 13504,
+    "variant": "base",
+    "skipped": false,
+    "skip_reason": null,
+    "source_bundle": "D:\\YostarGames\\StellaSora_EN\\Persistent_Store\\AssetBundles\\char_2d_13504.unity3d",
+    "prefab": "assets/assetbundles/actor2d_l2d/noncen/character/13504/live2d/moc/13504_l.prefab",
+    "moc": {
+        "name": "13504_L",
+        "file": "13504_L.moc3"
+    },
+    "textures": [
+        "textures/texture_00.png",
+        "textures/texture_01.png"
+    ],
+    "motions": [
+        {
+            "name": "chat_a",
+            "file": "motions/chat_a.motion3.json",
+            "duration": 2.8329999446868896,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 207
+        },
+        {
+            "name": "idle",
+            "file": "motions/idle.motion3.json",
+            "duration": 5.982999801635742,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 191
+        },
+        {
+            "name": "presents_a",
+            "file": "motions/presents_a.motion3.json",
+            "duration": 5.75,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 191
+        },
+        {
+            "name": "shy_a",
+            "file": "motions/shy_a.motion3.json",
+            "duration": 5.416999816894531,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 191
+        },
+        {
+            "name": "chat_b",
+            "file": "motions/chat_b.motion3.json",
+            "duration": 4.333000183105469,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 207
+        },
+        {
+            "name": "presents_b",
+            "file": "motions/presents_b.motion3.json",
+            "duration": 8.583000183105469,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 207
+        },
+        {
+            "name": "special_a",
+            "file": "motions/special_a.motion3.json",
+            "duration": 11.333000183105469,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 192
+        },
+        {
+            "name": "special_b",
+            "file": "motions/special_b.motion3.json",
+            "duration": 4.25,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 191
+        },
+        {
+            "name": "ultra",
+            "file": "motions/ultra.motion3.json",
+            "duration": 1.75,
+            "fade_in": 1.0,
+            "fade_out": 1.0,
+            "parameter_count": 191
+        },
+        {
+            "name": "think_a",
+            "file": "motions/think_a.motion3.json",
+            "duration": 6.083000183105469,
+            "fade_in": 0.5,
+            "fade_out": 0.5,
+            "parameter_count": 191
+        }
+    ],
+    "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "11701_T.moc3",
+        "Textures": [
+            "textures/texture_00.png",
+            "textures/texture_01.png"
+        ],
+        "Motions": {
+            "Talent": [
+                {
+                    "File": "motions/idle_0.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_0a.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_2.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                },
+                {
+                    "File": "motions/idle_1.motion3.json",
+                    "FadeInTime": 1.0,
+                    "FadeOutTime": 1.0
+                }
+            ]
+        }
+    },
+    "Groups": [],
+    "HitAreas": []
+}
